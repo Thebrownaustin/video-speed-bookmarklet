@@ -52,6 +52,8 @@ Read the full, commented source in [`src/speed.js`](src/speed.js) before running
 
 This tool only changes the local playback rate in your own browser. It doesn't bypass any access controls or download content. Check your institution's policies if you're unsure whether faster playback is acceptable for your course.
 
+AI was used in the development and code of this project. Specifically Claude.
+
 ## License
 
 [MIT](LICENSE)
