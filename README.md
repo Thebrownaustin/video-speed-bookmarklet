@@ -1,4 +1,4 @@
-# Safari Video Speed
+# Video Speed Bookmarklet
 
 A bookmarklet that lifts the 2x playback cap on Moodle (echo360) lectures (and any page with a plain HTML5 video) in Safari on macOS, with hotkeys to change speed on the fly.
 
